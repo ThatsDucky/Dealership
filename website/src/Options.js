@@ -19,7 +19,7 @@ export class Options extends Component {
             <h2 className="text-center">Options</h2>
             <div className="row m-2 p-2">
                 Color: <select id="color" className="ml-2" onChange={this.selectChange}>
-                    <option value="null">No Preference</option>
+                    <option value="">No Preference</option>
                     <option value="Red">Red</option>
                     <option value="White">White</option>
                     <option value="Gray">Gray</option>

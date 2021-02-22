@@ -9,4 +9,9 @@ Start the project and browse to http://localhost:3001/Car/SearchInventory to ver
 
 Running the web site:
 
-With the WebApi running, browse to the website directory and run npm start. The site should launch in a broswer at http://localhost:3000.
+With the WebApi running, browse to the website directory and run 
+
+npm install
+npm start
+
+The site should launch in a broswer at http://localhost:3000.

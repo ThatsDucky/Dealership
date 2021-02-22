@@ -4,7 +4,7 @@ Running the web api:
 
 Open solution in Visual Studio. WebApi project should be set to run on localhost:3001. 
 
-Start the project and browse to http://localhost:3001/Car/Search to verify site is working properly. A JSON result set of the test data should appear.
+Start the project and browse to http://localhost:3001/Car/SearchInventory to verify site is working properly. A JSON result set of the test data should appear.
 
 
 Running the web site:
